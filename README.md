@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack applications with MERN Stack, Django, and .NET MVC Core, along with Dockerizing apps for scalable deployments.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, especially those involving Web Development, Backend APIs, or DevOps workflows using Docker and Tailwind CSS.<br><br>🤝 I’m looking for help with<br>Improving my understanding of Microservices and J2EE and how to implement them in real-world projects.<br><br>🌱 I’m currently learning<br>J2EE, Microservices, and advancing my skills in Spring Framework.<br><br>💬 Ask me about<br>Building dynamic websites, Backend Development using Node.js and Django, or Docker and CI/CD setups.<br><br>⚡ Fun fact<br>I’m passionate about tech blogs, chess, and anime – all of which help me stay sharp and inspired!<br><br>
+🔭 <b>I’m currently working on<b><br>Building full-stack applications with MERN Stack, Django, and .NET MVC Core, along with Dockerizing apps for scalable deployments.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, especially those involving Web Development, Backend APIs, or DevOps workflows using Docker and Tailwind CSS.<br><br>🤝 I’m looking for help with<br>Improving my understanding of Microservices and J2EE and how to implement them in real-world projects.<br><br>🌱 I’m currently learning<br>J2EE, Microservices, and advancing my skills in Spring Framework.<br><br>💬 Ask me about<br>Building dynamic websites, Backend Development using Node.js and Django, or Docker and CI/CD setups.<br><br>⚡ Fun fact<br>I’m passionate about tech blogs, chess, and anime – all of which help me stay sharp and inspired!<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devashishjaybhaye) 
 
 # 💻 Tech Stack:
